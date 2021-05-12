@@ -1,5 +1,5 @@
 # Language-app-Miwok
-simple app to learn basic of Miwok language
+simple app to learn basics of Miwok language
 
 
 The main function of this app is to learn the basic of the Miwok language as numbers, family members, colors, phrases  by picture, and recode voice from a Miwok native speaker
